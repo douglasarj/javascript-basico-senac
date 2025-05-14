@@ -11,9 +11,8 @@ Fornecer uma base sólida sobre os conceitos fundamentais de JavaScript para ini
 - Operadores
 - Estruturas de controle (condicionais e loops)
 - Funções
-- Manipulação do DOM
 - Eventos
-- Introdução ao JavaScript moderno (ES6+)
+- Introdução ao JavaScript moderno 
 
 
 
