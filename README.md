@@ -1,7 +1,14 @@
-# 🧠 Revisão de JavaScript — SENAC
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/SENAC-EDU-blue?style=for-the-badge" alt="SENAC Badge"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" alt="Status Badge"/>
+</p>
 
-Seja bem-vindo(a) ao repositório de **atividades de revisão de JavaScript** do curso do **SENAC**!  
-Aqui você encontrará exercícios práticos, desafios e exemplos voltados para reforçar os principais conceitos da linguagem JavaScript.
+<h1 align="center">🧠 Revisão de JavaScript — SENAC</h1>
+
+<p align="center">
+  Repositório com atividades práticas e revisões dos principais conceitos de JavaScript para alunos do curso técnico em Desenvolvimento de Sistemas do SENAC.
+</p>
 
 ---
 
@@ -15,37 +22,23 @@ Este material foi criado para ajudar alunos a revisar os fundamentos do JavaScri
 
 ## 🧩 Conteúdos Revisados
 
-✔️ Variáveis e Tipos de Dados  
-✔️ Operadores Aritméticos e Lógicos  
-✔️ Estruturas Condicionais (`if`, `else`, `switch`)  
-✔️ Laços de Repetição (`for`, `while`, `do...while`)  
-✔️ Funções (declarativas e arrow functions)  
-✔️ Arrays e Objetos  
-✔️ Manipulação do DOM  
-✔️ Eventos no Navegador  
-✔️ Boas práticas com JavaScript moderno (ES6+)
+- ✔️ Variáveis e Tipos de Dados  
+- ✔️ Operadores Aritméticos e Lógicos  
+- ✔️ Estruturas Condicionais (`if`, `else`, `switch`)  
+- ✔️ Laços de Repetição (`for`, `while`, `do...while`)  
+- ✔️ Funções (declarativas e arrow functions)  
+- ✔️ Arrays e Objetos  
+- ✔️ Manipulação do DOM  
+- ✔️ Eventos no Navegador  
+- ✔️ Boas práticas com JavaScript moderno (ES6+)
 
 ---
 
-## 📁 Estrutura
-revisao-javascript-senac/
-├── fundamentos/ # Sintaxe, variáveis, operadores
-├── controle-fluxo/ # Condicionais e loops
-├── funcoes/ # Funções e escopo
-├── arrays-objetos/ # Trabalhando com listas e objetos
-├── dom-eventos/ # Manipulação do DOM e eventos
-├── desafios/ # Exercícios extras e desafios práticos
-└── README.md # Este arquivo
+👨‍🎓 Informações
+Curso: Técnico em Desenvolvimento de Sistemas
 
----
+Instituição: SENAC
 
-## 🚀 Como Usar
+Desenvolvido por: Douglas Araújo ✨
 
-1. Clone o repositório: git clone https://github.com/seu-usuario/revisao-javascript-senac.git
-2. Navegue pelas pastas de acordo com o tema.
-3. Abra os arquivos `.html` no navegador ou os `.js` no seu editor favorito (ex: VS Code).
-4. Experimente, edite e teste os códigos!
-
-
-**Curso:** TEC.Desenvolvimento de Sistemas  
-**Desenvolvido por:** [Douglas Araújo ✨]
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-yellow?style=flat-square" alt="Made with love" /> </p> 
